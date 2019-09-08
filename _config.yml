@@ -1,1 +1,16 @@
-theme: jekyll-theme-midnight
+title: Cameron Brien
+email: cameron at brien dot ca
+description: >- # this means to ignore newlines until "baseurl:"
+  It's me, Avi.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "brien.ca" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  cwebrien
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+show_excerpts: true
+
